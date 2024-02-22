@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gitsecondapp/static/css/main.628e3091.css",
+    "main.js": "/Gitsecondapp/static/js/main.5fec83bd.js",
+    "static/js/453.6199b26b.chunk.js": "/Gitsecondapp/static/js/453.6199b26b.chunk.js",
+    "index.html": "/Gitsecondapp/index.html",
+    "main.628e3091.css.map": "/Gitsecondapp/static/css/main.628e3091.css.map",
+    "main.5fec83bd.js.map": "/Gitsecondapp/static/js/main.5fec83bd.js.map",
+    "453.6199b26b.chunk.js.map": "/Gitsecondapp/static/js/453.6199b26b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.628e3091.css",
+    "static/js/main.5fec83bd.js"
+  ]
+}
